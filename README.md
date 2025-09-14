@@ -1,5 +1,5 @@
 # Financial-Data-Analytics
-Deep learning approach to predict stock price movements using recurrent neural networks. Implements LSTM architecture with comprehensive performance evaluation including directional accuracy analysis and simulated trading strategy. Achieves 1.95% prediction error and demonstrates quantitative finance modeling techniques.
+Built a machine learning model to predict stock price movements and tested whether it could be profitable for trading. Analyzed historical Dow Jones data to forecast price changes with 1.95% prediction error and demonstrates quantitative finantial data analysis skills and understanding of financial markets.
 
 ## Overview
 This project implements a Long Short-Term Memory (LSTM) neural network to predict stock price movements using historical Dow Jones data. The model focuses on both price prediction accuracy and directional movement prediction for potential trading applications.
